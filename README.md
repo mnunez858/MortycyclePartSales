@@ -1,7 +1,5 @@
-
-Got it. Let's simplify and update the README to reflect that:
-
 Motorcycle Parts Sales Analysis
+
 Introduction
 Welcome to the Motorcycle Parts Sales Analysis project! In this project, we'll be analyzing the sales data of a company that sells motorcycle parts. The company operates three warehouses in the area, selling both retail and wholesale, and offers various payment methods including credit cards, cash, and bank transfer.
 
